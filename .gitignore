@@ -1,0 +1,14 @@
+# output
+*.out
+*.exe
+out
+
+# cache
+.cache
+cache
+
+# logs
+*.log
+
+
+
